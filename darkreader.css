@@ -19375,7 +19375,7 @@ a.p-channel_sidebar__channel.focus-ring, button.p-channel_sidebar__link.focus-ri
     border-right-color: #1870a4;
     border-bottom-color: #1870a4;
     border-left-color: #1870a4;
-    color: #d6d4cf;
+    color: #fe6602;
 }
 .p-invite_members__pricing_banner__icon {
     color: #59b2e6;
@@ -19447,7 +19447,7 @@ a.p-channel_sidebar__channel.focus-ring, button.p-channel_sidebar__link.focus-ri
     color: #60c1fb;
 }
 .p-custom_status_input--for_team_site .p-custom_status_input__duration_picker_select .c-input_select__selected_value--placeholder {
-    color: #d6d4cf;
+    color: #fe6602;
 }
 .p-custom_status_input .c-input_character_count::after, .p-custom_status_input__dialog .c-input_character_count::after {
     background-image: initial;
@@ -19468,7 +19468,7 @@ a.p-channel_sidebar__channel.focus-ring, button.p-channel_sidebar__link.focus-ri
     color: #ffd633;
 }
 .p-custom_status_input__emoji_picker:hover .p-custom_status_input__emoji_happy_icon {
-    color: #d6d4cf;
+    color: #fe6602;
 }
 .c-dialog__footer .p-custom_status_input__custom_expiration_picker_time_select, .c-dialog__footer .p-custom_status_input__duration_picker_select, .p-custom_status_input:not(.p-custom_status_input--for_team_site) .p-custom_status_input__duration_picker_select {
     border-top-color: initial;
