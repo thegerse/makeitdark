@@ -17085,7 +17085,7 @@ input[type="text"].c-input_text.p-emoji_picker__input:focus {
     border-right-color: initial;
     border-bottom-color: initial;
     border-left-color: initial;
-    color: #EA4335;
+    color: #d6d4cf;
 }
 .c-snippet__code .CodeMirror-code > div::before {
     background-color: #191a1e;
