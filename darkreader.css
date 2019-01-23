@@ -19250,7 +19250,7 @@ input[type="text"].c-input_text.p-channel_name_input--input_with_warning {
 }
 .channel_option_item:hover {
     background-image: initial;
-    background-color: #191a1e;
+    background-color: #fe6602;
 }
 .channel_option_item--disabled .title {
     color: #bdb9b2;
