@@ -17105,7 +17105,7 @@ input[type="text"].c-input_text.p-emoji_picker__input:focus {
     color: #b8b3ac;
 }
 .c-email__sender_collapsed, .c-email__title_collapsed {
-    color: #EA4335;
+    color: #d6d4cf;
 }
 .c-email__preview_collapsed {
     color: #b8b3ac;
@@ -17114,7 +17114,7 @@ input[type="text"].c-input_text.p-emoji_picker__input:focus {
     color: #b8b3ac;
 }
 .c-email__header_name {
-    color: #d6d4cf;
+    color: #dd9a94;
 }
 .c-email__header_address {
     color: #b8b3ac;
