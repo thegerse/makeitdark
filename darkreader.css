@@ -19099,7 +19099,7 @@ button.p-admin_member_table__menu_item--disabled:hover {
     border-top-color: transparent;
 }
 .p-apps_browser__app_info {
-    color: #d6d4cf;
+    color: #fe6602;
 }
 .p-apps_browser__app_description {
     color: #bdb9b2;
@@ -19111,7 +19111,7 @@ button.p-admin_member_table__menu_item--disabled:hover {
     border-left-color: #383838;
 }
 .p-apps_browser__app_limit_meter b {
-    color: #d6d4cf;
+    color: #fe6602;
 }
 .p-apps_browser__app_limit_meter__paragraph {
     color: #bdb9b2;
@@ -19231,7 +19231,7 @@ input[type="text"].c-input_text.p-channel_name_input--input_with_warning {
     border-left-color: #cc7300;
 }
 .channel_options_modal .c-fullscreen_modal__title {
-    color: #d6d4cf;
+    color: #fe6602;
 }
 .channel_options_header span {
     color: #bdb9b2;
@@ -19243,7 +19243,7 @@ input[type="text"].c-input_text.p-channel_name_input--input_with_warning {
     border-top-color: #383838;
 }
 .channel_option_item .title {
-    color: #d6d4cf;
+    color: #fe6602;
 }
 .channel_option_item .channel_option_open {
     color: #bdb9b2;
