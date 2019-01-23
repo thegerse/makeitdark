@@ -17140,16 +17140,16 @@ input[type="text"].c-input_text.p-emoji_picker__input:focus {
     color: #b8b3ac;
 }
 .c-message__sender {
-    color: #EA4335;
+    color: #d6d4cf;
 }
 .c-message__sender a {
-    color: #EA4335;
+    color: #d6d4cf;
 }
 .c-message__body {
-    color: #EA4335;
+    color: #d6d4cf;
 }
 .c-message--light .c-message__sender .c-message__sender_link {
-    color: #EA4335;
+    color: #d6d4cf;
 }
 .c-message--dense .c-message__content_header .c-custom_status {
     border-top-color: #383838;
