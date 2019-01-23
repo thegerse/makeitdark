@@ -18782,7 +18782,7 @@ input[type="text"].c-lazy_filter_select__input.c-input_text:focus {
     border-right-color: #333333;
     border-bottom-color: #333333;
     border-left-color: #333333;
-    color: #d6d4cf;
+    color: #fe6602;
     outline-color: initial;
 }
 .c-lazy_filter_select__item--selected {
@@ -18791,10 +18791,10 @@ input[type="text"].c-lazy_filter_select__input.c-input_text:focus {
     border-right-color: #333333;
     border-bottom-color: #333333;
     border-left-color: #333333;
-    color: #d6d4cf;
+    color: #fe6602;
 }
 .c-lazy_filter_select__item--selected::after {
-    color: #d6d4cf;
+    color: #fe6602;
 }
 .c-lazy_filter_select__item--active {
     background-color: #176a9a;
@@ -18808,7 +18808,7 @@ input[type="text"].c-lazy_filter_select__input.c-input_text:focus {
     color: #ffffff;
 }
 .c-lazy_filter_select__item--group {
-    color: #d6d4cf;
+    color: #fe6602;
 }
 .c-lazy_filter_select__item--disabled {
     background-color: #1d1f24;
