@@ -17088,7 +17088,7 @@ input[type="text"].c-input_text.p-emoji_picker__input:focus {
     color: #d6d4cf;
 }
 .c-snippet__code .CodeMirror-code > div::before {
-    background-color: #191a1e;
+    background-color: #fe6602;
     border-right-color: #383838;
     color: #b8b3ac;
 }
@@ -17158,7 +17158,7 @@ input[type="text"].c-input_text.p-emoji_picker__input:focus {
     border-left-color: #383838;
 }
 .c-message--focus:not(.c-message--highlight):not(.c-message--standalone):not(.c-message--pinned):not(.c-message--ephemeral):not(.c-message--custom_response):not(.c-message--starred):not(.c-message--sli_highlight), .c-message--hover:not(.c-message--highlight):not(.c-message--standalone):not(.c-message--pinned):not(.c-message--ephemeral):not(.c-message--custom_response):not(.c-message--starred):not(.c-message--sli_highlight), .c-message:hover:not(.c-message--highlight):not(.c-message--standalone):not(.c-message--pinned):not(.c-message--ephemeral):not(.c-message--custom_response):not(.c-message--starred):not(.c-message--sli_highlight) {
-    background-color: #191a1e;
+    background-color: #fe6602;
 }
 .c-message--pinned, .c-message--sli_highlight:not(.c-message--sli_highlight_negative), .c-message--starred {
     background-image: initial;
@@ -17166,7 +17166,7 @@ input[type="text"].c-input_text.p-emoji_picker__input:focus {
 }
 .c-message--ephemeral, .c-message--sli_highlight_negative {
     background-image: initial;
-    background-color: #191a1e;
+    background-color: #fe6602;
 }
 .c-message--highlight, .c-message--highlight_yellow_bg {
     background-image: initial;
@@ -17193,7 +17193,7 @@ input[type="text"].c-input_text.p-emoji_picker__input:focus {
     color: #bdb9b2;
 }
 .c-message--sli_highlight_negative .c-message__label {
-    background-color: #191a1e;
+    background-color: #fe6602;
 }
 .c-message__label__highlight_title {
     color: #60c1fb;
@@ -17610,7 +17610,7 @@ a.c-message__call_name--linked {
 }
 .p-share_dialog_message_input[disabled] {
     background-image: initial;
-    background-color: #191a1e;
+    background-color: #fe6602;
     border-top-color: #48484a;
     border-right-color: #48484a;
     border-bottom-color: #48484a;
@@ -17667,7 +17667,7 @@ a.c-message__call_name--linked {
     border-left-color: #3d3d3d;
 }
 .c-action_buttons__button:focus {
-    background-color: #191a1e;
+    background-color: #fe6602;
 }
 .c-action_buttons__button:hover {
     border-top-color: rgba(90, 92, 98, 0.11);
@@ -17790,7 +17790,7 @@ a.c-message__call_name--linked {
 }
 .c-pillow_file_container--full_width:focus, .c-pillow_file_container--full_width:focus-within, .c-pillow_file_container--full_width:hover {
     background-image: initial;
-    background-color: #191a1e;
+    background-color: #fe6602;
     box-shadow: none;
 }
 .c-pillow_file__header {
@@ -17855,7 +17855,7 @@ a.c-message__call_name--linked {
 }
 .c-pillow_file__post__content code, .c-pillow_file__post__content pre {
     background-image: initial;
-    background-color: #191a1e;
+    background-color: #fe6602;
 }
 .c-pillow_file__post__content code *, .c-pillow_file__post__content pre * {
     text-decoration-color: initial;
@@ -17870,7 +17870,7 @@ a.c-message__call_name--linked {
     background-color: #1d1f24;
 }
 .c-pillow_file__post__content ul.checklist {
-    background-color: #191a1e;
+    background-color: #fe6602;
 }
 .c-pillow_file__post__content ul.checklist ul.checklist {
     background-color: transparent;
@@ -17898,7 +17898,7 @@ a.c-message__call_name--linked {
     border-bottom-color: initial;
 }
 .c-pillow_file__post__content .c-pillow_file__post__unfurl, .c-pillow_file__post__content .message {
-    background-color: #191a1e;
+    background-color: #fe6602;
 }
 .c-pillow_file__snippet__content .CodeMirror {
     border-top-color: initial;
@@ -18002,7 +18002,7 @@ a.c-message__call_name--linked {
 }
 .c-menu_select[disabled] {
     background-image: initial;
-    background-color: #191a1e;
+    background-color: #fe6602;
     border-top-color: #48484a;
     border-right-color: #48484a;
     border-bottom-color: #48484a;
@@ -18133,7 +18133,7 @@ a.c-message__call_name--linked {
 }
 .p-dnd_dialog__date_picker_trigger[disabled] {
     background-image: initial;
-    background-color: #191a1e;
+    background-color: #fe6602;
     border-top-color: #48484a;
     border-right-color: #48484a;
     border-bottom-color: #48484a;
@@ -18196,7 +18196,7 @@ a.c-message__call_name--linked {
 }
 .p-ent_settings_item:hover {
     background-image: initial;
-    background-color: #191a1e;
+    background-color: #fe6602;
 }
 .p-export_csv_context {
     background-color: #17181c;
@@ -18207,7 +18207,7 @@ a.c-message__call_name--linked {
     box-shadow: rgba(0, 0, 0, 0.12) 0px 5px 10px;
 }
 .p-export_csv_context_caption {
-    background-color: #191a1e;
+    background-color: #fe6602;
 }
 .p-app_management .c-tabs__tab_menu {
     box-shadow: none;
@@ -18401,7 +18401,7 @@ a.c-message__call_name--linked {
 }
 .p-tos {
     background-image: initial;
-    background-color: #191a1e;
+    background-color: #fe6602;
 }
 .p-tos__card {
     background-color: #17181c;
@@ -18523,7 +18523,7 @@ a.c-message__call_name--linked {
 }
 .p-grid_onboarding {
     background-image: initial;
-    background-color: #191a1e;
+    background-color: #fe6602;
 }
 .p-grid_onboarding__pane {
     background-color: #17181c;
@@ -18625,7 +18625,7 @@ a.c-message__call_name--linked {
     color: #70c8ff;
 }
 .p-workspace_directory__page {
-    background-color: #191a1e;
+    background-color: #fe6602;
 }
 .p-workspace_directory__page--modal_view {
     box-shadow: rgba(39, 44, 53, 0.1) 0px 1px 1px inset;
@@ -18635,7 +18635,7 @@ a.c-message__call_name--linked {
     outline-color: initial;
 }
 .p-workspace_directory__spinner--fs {
-    background-color: #191a1e;
+    background-color: #fe6602;
     box-shadow: rgba(39, 44, 53, 0.1) 0px 1px 1px inset;
 }
 .p-workspace_directory__title {
