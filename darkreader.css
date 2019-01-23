@@ -17085,7 +17085,7 @@ input[type="text"].c-input_text.p-emoji_picker__input:focus {
     border-right-color: initial;
     border-bottom-color: initial;
     border-left-color: initial;
-    color: #d6d4cf;
+    color: #EA4335;
 }
 .c-snippet__code .CodeMirror-code > div::before {
     background-color: #191a1e;
@@ -17105,7 +17105,7 @@ input[type="text"].c-input_text.p-emoji_picker__input:focus {
     color: #b8b3ac;
 }
 .c-email__sender_collapsed, .c-email__title_collapsed {
-    color: #d6d4cf;
+    color: #EA4335;
 }
 .c-email__preview_collapsed {
     color: #b8b3ac;
@@ -17114,7 +17114,7 @@ input[type="text"].c-input_text.p-emoji_picker__input:focus {
     color: #b8b3ac;
 }
 .c-email__header_name {
-    color: #d6d4cf;
+    color: #EA4335;
 }
 .c-email__header_address {
     color: #b8b3ac;
@@ -17140,16 +17140,16 @@ input[type="text"].c-input_text.p-emoji_picker__input:focus {
     color: #b8b3ac;
 }
 .c-message__sender {
-    color: #d6d4cf;
+    color: #EA4335;
 }
 .c-message__sender a {
-    color: #d6d4cf;
+    color: #EA4335;
 }
 .c-message__body {
-    color: #ea4335;
+    color: #EA4335;
 }
 .c-message--light .c-message__sender .c-message__sender_link {
-    color: #d6d4cf;
+    color: #EA4335;
 }
 .c-message--dense .c-message__content_header .c-custom_status {
     border-top-color: #383838;
@@ -17309,7 +17309,7 @@ a.c-message__label_link:hover {
     border-bottom-color: #48484a;
     border-left-color: #48484a;
     box-shadow: none;
-    color: #EA4335;
+    color: #d6d4cf;
 }
 .c-message__editor__input.focus {
     border-top-color: #1238b5;
@@ -17415,13 +17415,13 @@ a.c-message__broadcast_repliers_link {
     color: #b8b3ac;
 }
 .c-message__call_info {
-    color: #EA4335;
+    color: #d6d4cf;
 }
 .c-message__call--active .c-message__call_name:focus, .c-message__call--active .c-message__call_name:hover {
     text-decoration-color: initial;
 }
 a.c-message__call_name--linked {
-    color: #EA4335;
+    color: #d6d4cf;
 }
 .c-message__call_name + .c-message__call_description::before {
     color: #eae9e6;
@@ -17598,7 +17598,7 @@ a.c-message__call_name--linked {
     border-right-color: #48484a;
     border-bottom-color: #48484a;
     border-left-color: #48484a;
-    color: #EA4335;
+    color: #d6d4cf;
 }
 .p-share_dialog_message_input:focus {
     border-top-color: transparent;
@@ -17676,7 +17676,7 @@ a.c-message__call_name--linked {
     border-left-color: rgba(90, 92, 98, 0.11);
 }
 .c-action_buttons__button:hover .c-action_buttons__icon {
-    color: #EA4335;
+    color: #d6d4cf;
 }
 .c-file_container {
     background-image: initial;
@@ -17697,7 +17697,7 @@ a.c-message__call_name--linked {
     text-decoration-color: initial;
 }
 .c-file__title {
-    color: #EA4335;
+    color: #d6d4cf;
 }
 .c-file__meta {
     color: #bdb9b2;
@@ -17739,7 +17739,7 @@ a.c-message__call_name--linked {
     box-shadow: none;
 }
 .c-file__action_button, .c-file__action_button:link, .c-file__action_button:visited {
-    color: #EA4335;
+    color: #d6d4cf;
 }
 .c-file__action_button::after {
     border-top-color: rgba(102, 102, 102, 0.1);
@@ -17797,7 +17797,7 @@ a.c-message__call_name--linked {
     outline-color: initial;
 }
 .c-pillow_file__header, .c-pillow_file__header:link:focus, .c-pillow_file__header:link:hover {
-    color: #EA4335;
+    color: #d6d4cf;
     text-decoration-color: initial;
 }
 .c-pillow_file__header--tombstone {
@@ -17825,7 +17825,7 @@ a.c-message__call_name--linked {
     color: #bdb9b2;
 }
 .c-pillow_file__title {
-    color: #EA4335;
+    color: #d6d4cf;
 }
 .c-pillow_file__preview {
     border-top-color: #383838;
@@ -17905,7 +17905,7 @@ a.c-message__call_name--linked {
     border-right-color: initial;
     border-bottom-color: initial;
     border-left-color: initial;
-    color: #EA4335;
+    color: #d6d4cf;
 }
 .c-pillow_file__snippet__truncated {
     border-top-color: rgba(90, 92, 98, 0.11);
@@ -17978,7 +17978,7 @@ a.c-message__call_name--linked {
     border-bottom-color: #48484a;
     border-left-color: #48484a;
     box-shadow: #2e3847 0px 1px 0px;
-    color: #EA4335;
+    color: #d6d4cf;
     text-shadow: none;
 }
 .c-menu_select__button:active, .no_touch .c-menu_select__button:hover {
