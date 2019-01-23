@@ -17140,10 +17140,10 @@ input[type="text"].c-input_text.p-emoji_picker__input:focus {
     color: #b8b3ac;
 }
 .c-message__sender {
-    color: #d6d4cf;
+    color: #ea4335;
 }
 .c-message__sender a {
-    color: #d6d4cf;
+    color: #fbbc05;
 }
 .c-message__body {
     color: #d6d4cf;
